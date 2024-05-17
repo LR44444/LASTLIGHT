@@ -1,4 +1,4 @@
-'''[==========] Running 1 test from 1 test case.
+```[==========] Running 1 test from 1 test case.
 [----------] Global test environment set-up.
 [----------] 1 test from IncreaseVectorTest
 [ RUN      ] IncreaseVectorTest.IncreaseVectorTest
@@ -7,4 +7,4 @@
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test case ran. (2 ms total)
-[  PASSED  ] 1 test.'''
+[  PASSED  ] 1 test.```
